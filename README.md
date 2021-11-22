@@ -1,12 +1,14 @@
 
 
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Zacharias</h1>
+<h1 align="left">Hi, I'm Lucas Zacharias <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Junior Web Developer focused in becoming a Fullstack Developer
+- 🔥 I'm a Fullstack Developer
 
-- 🔭 Currently looking for an opportunity
+- :computer: Focused just as much on the front-end experience as in creating a solid back-end structure
 
-- 👨‍💻 All of my projects are available at [lucaszacharias.com.br](https://lucaszacharias.com.br)
+- :heart_eyes: Passionate about Java and Javascript
+
+- 👨‍💻 All of my projects are available at [https://lucaszacharias.com.br](https://lucaszacharias.com.br)
 
 <br><br>
 
